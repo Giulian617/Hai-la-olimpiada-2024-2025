@@ -72,7 +72,7 @@
   * [find](https://cplusplus.com/reference/set/set/find/)
   * [lower_bound](https://cplusplus.com/reference/set/set/lower_bound/)
   * [upper_bound](https://cplusplus.com/reference/set/set/upper_bound/)
-* [multiset](https://cplusplus.com/reference/set/multiset/) -> trebuie inclusa biblioteca \<multiset\>
+* [multiset](https://cplusplus.com/reference/set/multiset/) -> trebuie inclusa biblioteca \<set\>
   * [size](https://cplusplus.com/reference/set/multiset/size/)
   * [empty](https://cplusplus.com/reference/set/multiset/empty/)
   * [insert](https://cplusplus.com/reference/set/multiset/insert/)
