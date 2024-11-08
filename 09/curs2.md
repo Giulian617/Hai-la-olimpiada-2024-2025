@@ -9,7 +9,6 @@
 
 * [Cufăr - Kilonova](https://kilonova.ro/problems/890)
 * [Expresie - Kilonova](https://www.pbinfo.ro/probleme/3315/eratostene4)
-* [Primprim - Kilonova](https://kilonova.ro/problems/514)
 
 ## Ciurul lui Eratostene
 
@@ -25,5 +24,6 @@
 * [Oneout - Kilonova](https://kilonova.ro/problems/904)
 * [NumereX - Pbinfo](https://www.pbinfo.ro/probleme/3680/numerex)
 * [Macarie - Kilonova](https://kilonova.ro/problems/2501)
+* [Primprim - Kilonova](https://kilonova.ro/problems/514)
 
 #### Cursul de azi a fost ținut de Ivan Andrei-Cristian.
