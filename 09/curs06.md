@@ -1,4 +1,4 @@
-[Articol scris integral de minte despre sume parțiale și șmenul lui Mars](https://edu.roalgo.ro/usor/partial-sums/)
+[Articol scris integral de mine despre sume parțiale și șmenul lui Mars](https://edu.roalgo.ro/usor/partial-sums/)
 
 # Sume parțiale 1D
 
