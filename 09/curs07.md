@@ -10,7 +10,7 @@
 
 * [Sume parțiale - Pbinfo](https://www.pbinfo.ro/articole/5615/sume-partiale-in-tablouri)
 * [Deminare - Kilonova](https://kilonova.ro/problems/904)
-* [Gradina (ONI 2013 IX) - Kilonova](https://kilonova.ro/problems/892)
+* [Gradina (ONI 2013 IX) - Kilonova](https://kilonova.ro/problems/1401)
 * [Matd3 - Pbinfo](https://www.pbinfo.ro/probleme/3290/matd3)
 
 # Șmenul lui Mars 2D
